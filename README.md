@@ -17,6 +17,8 @@
 **Clone o seguinte repostitório**
 
 **git clone https://github.com/josephfranca//Peral_aula_25_09_26/app.py**
+**cd app.py**
+**py app.py**
 
 # Autor e contato
 
