@@ -16,11 +16,11 @@
 
 **Clone o seguinte repostitório**
 
-**git clone https://github.com/josephfranca//Peral_aula_25_09_26/app.py**
+** 1. git clone https://github.com/josephfranca//Peral_aula_25_09_26/app.py**
 
-**cd app.py**
+**2. cd app.py**
 ---
-**py app.py**
+**3. py app.py**
 ---
 
 # Autor e contato
