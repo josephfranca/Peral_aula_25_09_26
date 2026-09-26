@@ -16,7 +16,7 @@
 
 **Clone o seguinte repostitório**
 
-** 1. git clone https://github.com/josephfranca//Peral_aula_25_09_26/app.py**
+**1. git clone https://github.com/josephfranca//Peral_aula_25_09_26/app.py**
 
 **2. cd app.py**
 ---
