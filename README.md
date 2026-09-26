@@ -20,8 +20,8 @@
 
 **cd app.py**
 ---
-
 **py app.py**
+---
 
 # Autor e contato
 
